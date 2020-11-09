@@ -1,12 +1,8 @@
 import random
 
+
+# 生成随机数，猜这个数是多少
 rnd = random.randint(1, 100)
-
-# randint(1, 100)
-# 1 <= rnd <= 100
-
-# random()
-# 0 <= rnd < 1.0
 
 
 # while循环实现

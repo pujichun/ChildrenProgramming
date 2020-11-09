@@ -5,6 +5,7 @@
 
 两边之和大于第三边
 """
+
 a = float(input('输入第1个数：'))
 b = float(input('输入第2个数：'))
 c = float(input('输入第3个数：'))
