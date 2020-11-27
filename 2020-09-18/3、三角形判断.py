@@ -17,5 +17,4 @@ if a + b > c and a + c > b and b + c > a:
         print("能构成三角形，但不能构成等腰三角形")
 else:
     print("不能构成三角形")
-
 # 使用set快速判断是否有元素相等
